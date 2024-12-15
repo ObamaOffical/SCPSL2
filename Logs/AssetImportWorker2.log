@@ -1,0 +1,737 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.43f1 (85497d293fa1) revision 8735101'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 14188 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.43f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Big Man/SCP SL 2
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50892
+Successfully changed project path to: C:/Users/Big Man/SCP SL 2
+C:/Users/Big Man/SCP SL 2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20156]  Target information:
+
+Player connection [20156]  * "[IP] 192.168.1.12 [Port] 0 [Flags] 2 [Guid] 428270864 [EditorId] 428270864 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-L4ISK75) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20156] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20156] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 20.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.43f1 (85497d293fa1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Big Man/SCP SL 2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3965 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.021076 seconds.
+- Loaded All Assemblies, in  0.395 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.271 seconds
+Domain Reload Profiling: 662ms
+	BeginReloadAssembly (139ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (80ms)
+	LoadAllAssembliesAndSetupDomain (129ms)
+		LoadAssemblies (136ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (126ms)
+			TypeCache.Refresh (125ms)
+				TypeCache.ScanAssembly (113ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (272ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (228ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.798 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.649 seconds
+Domain Reload Profiling: 1440ms
+	BeginReloadAssembly (160ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (541ms)
+		LoadAssemblies (420ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (198ms)
+				TypeCache.ScanAssembly (182ms)
+			ScanForSourceGeneratedMonoScriptInfo (18ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (649ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (513ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (388ms)
+			ProcessInitializeOnLoadMethodAttributes (18ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 5.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4184 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (1.9 MB). Loaded Objects now: 4646.
+Memory consumption went from 162.3 MB to 160.4 MB.
+Total: 3.740500 ms (FindLiveObjects: 0.293100 ms CreateObjectMapping: 0.172500 ms MarkObjects: 2.798700 ms  DeleteObjects: 0.475200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7091.139111 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/User Interfaces
+  artifactKey: Guid(cb826cc12edd78d4f975dedf3c5225ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/User Interfaces using Guid(cb826cc12edd78d4f975dedf3c5225ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '17a2793d3f5f21829c7cc437e1d76989') in 0.003179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.044926 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/User Interfaces/Aim.png
+  artifactKey: Guid(95ba05053105d3d4e9431aba54b5b943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/User Interfaces/Aim.png using Guid(95ba05053105d3d4e9431aba54b5b943) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f448b4fe4fb4c9af05ad1ebdb05a45f9') in 0.120045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/User Interfaces/Interact.png
+  artifactKey: Guid(800242bd271fba541b224c2b2b4ed318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/User Interfaces/Interact.png using Guid(800242bd271fba541b224c2b2b4ed318) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '212b7e3c3865e7ba0fe32787f7e34f8a') in 0.018833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 17.213268 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Animations
+  artifactKey: Guid(fb42b066c06a5714fa75a3f55ec0d368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Animations using Guid(fb42b066c06a5714fa75a3f55ec0d368) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a7208fd0d9e96f8d3420f1741ce7cb4e') in 0.000622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.339922 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Animations/Reload.anim
+  artifactKey: Guid(403a72fcae6d19b4a876d5a82fba4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Animations/Reload.anim using Guid(403a72fcae6d19b4a876d5a82fba4db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '21a043d2db4bbb850bb93534a7d6e633') in 0.001395 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 26.085851 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Animations
+  artifactKey: Guid(def0f0ddb97f0c94b8d493e604305586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Animations using Guid(def0f0ddb97f0c94b8d493e604305586) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1603e9f1ac1f0d7be57f5bc8220ec3d9') in 0.000592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.286213 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Animations/Moving Target.controller
+  artifactKey: Guid(99ec9126145bfff4bbf869a5d46430e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Animations/Moving Target.controller using Guid(99ec9126145bfff4bbf869a5d46430e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a0a8e0e95d64de24197477263bf54155') in 0.002302 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 4.682785 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Animations/Target.anim
+  artifactKey: Guid(da76327765605a74cbb9a1c725c74020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Animations/Target.anim using Guid(da76327765605a74cbb9a1c725c74020) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1faabd6fe140616c7e613849670e1f7d') in 0.001404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 19.779545 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects
+  artifactKey: Guid(a8c6004e78c89e14992a6938de3566b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects using Guid(a8c6004e78c89e14992a6938de3566b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b8876fc47c40302600f8052e37fcc2b0') in 0.000483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.975706 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Textures
+  artifactKey: Guid(4b9b882e9fe5c2c4ba5edba972fb2d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Textures using Guid(4b9b882e9fe5c2c4ba5edba972fb2d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9b31295b0beaced5e068e24d1b1a4c66') in 0.000500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.096451 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Textures/BulletHoleMetalThroughAlbedo.tif
+  artifactKey: Guid(4dcc91061fcec7d40a6d7c381bf1eabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Textures/BulletHoleMetalThroughAlbedo.tif using Guid(4dcc91061fcec7d40a6d7c381bf1eabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f0a5d7d1a1bfe9a6ee024f586c4ea85c') in 0.015341 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Textures/FlashParticle.tif
+  artifactKey: Guid(c826d12aca5bdda4c900b00833f6d875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Textures/FlashParticle.tif using Guid(c826d12aca5bdda4c900b00833f6d875) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1fc455a2ce1bd4bb60438f82c4e2d180') in 0.015631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.269009 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Prefabs
+  artifactKey: Guid(66b2958180b2bf2499ff4c4b6a684d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Prefabs using Guid(66b2958180b2bf2499ff4c4b6a684d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '74a5bdeda2f87c001b026c611b461170') in 0.000640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.081587 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Prefabs/BulletImpactMetalEffect.prefab
+  artifactKey: Guid(02a509a7fa70ed740ba4197e20c5d32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Effects/Prefabs/BulletImpactMetalEffect.prefab using Guid(02a509a7fa70ed740ba4197e20c5d32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6a16d69d0cd4c35bfeda182cfbab2582') in 0.043124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 6.135808 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/MuzzleFlashParticle.mat
+  artifactKey: Guid(527027c8baf2f0540be3104a3ec38a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/MuzzleFlashParticle.mat using Guid(527027c8baf2f0540be3104a3ec38a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0bba019a8fa937a328b13bbd9a27f415') in 0.032113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.550716 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/870_Shotgun.fbx
+  artifactKey: Guid(621a34edc52ed564691a1e478641944a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/870_Shotgun.fbx using Guid(621a34edc52ed564691a1e478641944a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fa141e8d0c5bb23b3801fe70faf7b6dd') in 0.051505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Pistol.fbx
+  artifactKey: Guid(b3248db90896a6f46a0cdb09d671a88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Pistol.fbx using Guid(b3248db90896a6f46a0cdb09d671a88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '787dba08df7456b78530aa4aeb4a3bea') in 0.025614 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/L96_Sniper_Rifle.fbx
+  artifactKey: Guid(d78fce1f586605a47ab057832f697a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/L96_Sniper_Rifle.fbx using Guid(d78fce1f586605a47ab057832f697a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'efec9d00a8ceadf9100a3e2dffbb1526') in 0.020063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 9.241525 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Materials
+  artifactKey: Guid(6eff37e8d2d055b4a839b40631d4f6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Materials using Guid(6eff37e8d2d055b4a839b40631d4f6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '53ee3e1970a68318890f4ee1a6f61cbd') in 0.000586 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.079007 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Materials/870_Shotgun.mat
+  artifactKey: Guid(0ab5fe00969ee4c4e89e6fd511b34c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Materials/870_Shotgun.mat using Guid(0ab5fe00969ee4c4e89e6fd511b34c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cd2d6ed2eacc2b400c6465cba9d598b7') in 0.016815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Materials/Pistol.mat
+  artifactKey: Guid(f5876755b39d4ff468ab79e419cc28cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Models/Materials/Pistol.mat using Guid(f5876755b39d4ff468ab79e419cc28cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cdb54175582528addc54e133a921b356') in 0.016386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 14.637409 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures
+  artifactKey: Guid(c298a0c86e23b734b8a99c219e60842d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures using Guid(c298a0c86e23b734b8a99c219e60842d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0ce5acba6f4be9571f086aa9e31d73f8') in 0.000624 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.055283 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/870_Shotgun_Albedo.png
+  artifactKey: Guid(ba3473290f02b6a489418d05090f7549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/870_Shotgun_Albedo.png using Guid(ba3473290f02b6a489418d05090f7549) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5b7b5c7509596eccd5fa7ccff2d670ca') in 0.037793 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/L96_Albedo.png
+  artifactKey: Guid(290da99795d6cfe4f9e1bc0fba28f6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/L96_Albedo.png using Guid(290da99795d6cfe4f9e1bc0fba28f6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ac798bd9e1298d151267430a342448ca') in 0.018161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/Ak-47_Albedo.png
+  artifactKey: Guid(6cde418a7e529be41aafe5ae5d2ac5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/Ak-47_Albedo.png using Guid(6cde418a7e529be41aafe5ae5d2ac5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b4803a0278b1dc0bfe84a645e49f1e56') in 0.017000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/M4_Albedo.png
+  artifactKey: Guid(71b3ee8f7f1a5c546888f210fa64a552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/M4_Albedo.png using Guid(71b3ee8f7f1a5c546888f210fa64a552) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'aef24a84a8bf081f39c79e0b7a1866b6') in 0.017831 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/M4_Normal.png
+  artifactKey: Guid(c92a4bd515d342841bb2e6d1b118d2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Textures/M4_Normal.png using Guid(c92a4bd515d342841bb2e6d1b118d2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9729746dc1a05145aa7df3034d0bbf69') in 0.036433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.060650 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials
+  artifactKey: Guid(b6ba2050f10ef49458292885496459c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials using Guid(b6ba2050f10ef49458292885496459c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '30ae8af38a32e19d341c5bad0714415f') in 0.000872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.204668 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP
+  artifactKey: Guid(8c1006e00d4b8e54387cce539c810027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP using Guid(8c1006e00d4b8e54387cce539c810027) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4abfc5c6466cf65c38d62772289ec1f0') in 0.000569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.067326 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/870_Shotgun 1.mat
+  artifactKey: Guid(915eed18d0c9c4947a43d5deea70544d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/870_Shotgun 1.mat using Guid(915eed18d0c9c4947a43d5deea70544d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'db9ba0f8bfc2f46eefed5c516c681aba') in 0.043884 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/M4_Carbine 1.mat
+  artifactKey: Guid(dcc40fe7e78191d4dbb8af85638cb632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/M4_Carbine 1.mat using Guid(dcc40fe7e78191d4dbb8af85638cb632) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9238e470412229516346964809f4cec3') in 0.017136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/BulletMat.mat
+  artifactKey: Guid(ec826cf55c015b14482421ec222e598e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/URP/BulletMat.mat using Guid(ec826cf55c015b14482421ec222e598e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5defbabc498ff9240e40688570989eae') in 0.008215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.764288 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP
+  artifactKey: Guid(dc17d66886400834a96e2f9b9d469aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP using Guid(dc17d66886400834a96e2f9b9d469aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '82c65dbbb7166a02e5c1df9e1c653653') in 0.000637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.067517 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/870_Shotgun 1.mat
+  artifactKey: Guid(908cdd572b7aed0449c694add383a665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/870_Shotgun 1.mat using Guid(908cdd572b7aed0449c694add383a665) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '246331e85bc19229ab327e81a1d19538') in 0.037806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/BulletDecalMetal.mat
+  artifactKey: Guid(ac72d8b11dd15be4eb14cdd05aa4e8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/BulletDecalMetal.mat using Guid(ac72d8b11dd15be4eb14cdd05aa4e8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7d117319d308d9be0d846c3b5051b6bb') in 0.008929 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/L96_Sniper_Rifle 1_MaskMap.png
+  artifactKey: Guid(f302e577feffe474f8af494c8e30df43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/L96_Sniper_Rifle 1_MaskMap.png using Guid(f302e577feffe474f8af494c8e30df43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c0ca3b5d00a3d71f3c41fcd6fe999194') in 0.016173 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/M4_Carbine 1_MaskMap.png
+  artifactKey: Guid(80f0138a24696584bba0efb63201d033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/M4_Carbine 1_MaskMap.png using Guid(80f0138a24696584bba0efb63201d033) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '032933ca58b9af40e3de6f98ef086a5b') in 0.017793 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/Pistol 1.mat
+  artifactKey: Guid(8cc3731f4da3d904f827c415357edad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Materials/HDRP/Pistol 1.mat using Guid(8cc3731f4da3d904f827c415357edad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '24038519ec7c4905dfe4c5ce8a1c648f') in 0.013289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 46.005098 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Sounds
+  artifactKey: Guid(02afc2d4bd796e840968d93a19cf5c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Sounds using Guid(02afc2d4bd796e840968d93a19cf5c7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f5569e1f7a6693a8d81ef3d70ad90956') in 0.000565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.913628 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Sounds/Player
+  artifactKey: Guid(f402572aa5bda2149a664b9efe2490a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Sounds/Player using Guid(f402572aa5bda2149a664b9efe2490a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c82e2d7a7006e57b69201039398a2099') in 0.000533 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.076007 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Sounds/Player/Jump.wav
+  artifactKey: Guid(56d2ae87641afd04ab7327adc39cb823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Sounds/Player/Jump.wav using Guid(56d2ae87641afd04ab7327adc39cb823) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8017ed0f16c1bc74fb94c924f3e0991e') in 0.043712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 32.978737 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Animations/Reload.controller
+  artifactKey: Guid(8f0a660eae0ecc241ba137683d846021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Animations/Reload.controller using Guid(8f0a660eae0ecc241ba137683d846021) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ab167e82d049ec81a49f9193c5334e10') in 0.001594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 54.385533 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Bullet
+  artifactKey: Guid(720d865c9f91f3548a0f5e597cb22cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Bullet using Guid(720d865c9f91f3548a0f5e597cb22cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8d76f9dd758555a87ca4d8256e22d058') in 0.000552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.084572 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Weapon/Bullet/Bullet.prefab
+  artifactKey: Guid(afc9c0a592c2d3e408e67df46bacd613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Weapon/Bullet/Bullet.prefab using Guid(afc9c0a592c2d3e408e67df46bacd613) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c5696a4789207c4b314e296b9bcb0f13') in 0.017476 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 20.660598 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons
+  artifactKey: Guid(bdd75d57b8a25b841b8b8aa3e9c6975d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons using Guid(bdd75d57b8a25b841b8b8aa3e9c6975d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '423f0dc5ff1df2cf9d3549154956677f') in 0.000498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.912221 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons/870_Shotgun.wav
+  artifactKey: Guid(85271efe3a4fd614f95d8653ced9927b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons/870_Shotgun.wav using Guid(85271efe3a4fd614f95d8653ced9927b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4ff04fc978ba639c46beaf4c2e880d84') in 0.011919 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002091 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons/Common Reload.wav
+  artifactKey: Guid(c35f284e9475b5f45b9edab995d9824c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons/Common Reload.wav using Guid(c35f284e9475b5f45b9edab995d9824c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8f2f1737f538f0896f884be3321593b8') in 0.013362 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons/M4 Carbine.wav
+  artifactKey: Guid(44b6c39ee8df15a44aba4438bd084f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Sounds/Weapons/M4 Carbine.wav using Guid(44b6c39ee8df15a44aba4438bd084f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd164adcd0b7d88995fbb468943de1fe3') in 0.014673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 128.541071 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Prefabs/Bullet Shell.prefab
+  artifactKey: Guid(c4a92788f3aab074baf288aaed06ee96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Prefabs/Bullet Shell.prefab using Guid(c4a92788f3aab074baf288aaed06ee96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3a1832a77c2d0eb6e6fbe3510333d341') in 0.015811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 11.304592 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials
+  artifactKey: Guid(62e09e1e4aed9424ba218499f11ea644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials using Guid(62e09e1e4aed9424ba218499f11ea644) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'add7f14af5ae9bbf0024a258d72e12f6') in 0.000496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.422913 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/SkyHaloSky.mat
+  artifactKey: Guid(e523c896238589445ae28370258d26c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/SkyHaloSky.mat using Guid(e523c896238589445ae28370258d26c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '87f41d19a8c32dccd6d9f8d43a48b91b') in 0.168371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 4.251815 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn
+  artifactKey: Guid(d4022d1f405778f42863a99cbc626972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn using Guid(d4022d1f405778f42863a99cbc626972) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7519a9ba5b6dd5dffddd487eb3717885') in 0.000754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.079904 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Concrete.mat
+  artifactKey: Guid(fa8475f0c21b0d64fa93da932632ad2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Concrete.mat using Guid(fa8475f0c21b0d64fa93da932632ad2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9506bea40a690aa65dfb6a695c3428cb') in 0.110644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Water.mat
+  artifactKey: Guid(45f04857899f4854698c55e1ac1a3ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Water.mat using Guid(45f04857899f4854698c55e1ac1a3ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '08578fbcee46442ac3b14e5c20992c67') in 0.086016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Walls.mat
+  artifactKey: Guid(39adfe5692756744a985af5700536841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Walls.mat using Guid(39adfe5692756744a985af5700536841) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '37345f7f1d9dd451988866b47e094e05') in 0.017874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Wood.mat
+  artifactKey: Guid(b4e6576de931bd04aa4121f9e9b5f1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Wood.mat using Guid(b4e6576de931bd04aa4121f9e9b5f1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0b3927e0355aadc88d6d671262afcae7') in 0.019322 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Target.mat
+  artifactKey: Guid(3b84ec85ae243134ca4db5638e0f8568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spoiled Unknown/XtremeFPS/Demo/Demo Environment/Materials/BuiltIn/Target.mat using Guid(3b84ec85ae243134ca4db5638e0f8568) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '74378c8c02e04a142e08b76429ffd90b') in 0.260956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
