@@ -9,6 +9,11 @@ public class EnemyAI : MonoBehaviour
     Plane[] cameraFrustum;
     new Collider collider;
 
+    [Header("Enemy Aggression")]
+    [SerializeField] private PlayerStat playerstat;
+    [SerializeField] private float killDistance = 4f;
+
+
     [Header("Movement and Tracking")]
     [SerializeField] private NavMeshAgent enemy;
     [SerializeField] private Transform player;
@@ -51,6 +56,7 @@ public class EnemyAI : MonoBehaviour
 
     void Update()
     {
+
         // Update volume based on proximity
         UpdateProximityVolume();
 
@@ -64,6 +70,7 @@ public class EnemyAI : MonoBehaviour
         if (!enemy.isStopped)
         {
             MoveTowardsPlayer();
+            ProximityAggression();
         }
     }
 
@@ -130,6 +137,15 @@ public class EnemyAI : MonoBehaviour
         if (enemy.isStopped)
         {
             audioSource.Stop();
+        }
+    }
+
+    void ProximityAggression()
+    {
+        float distance = Vector3.Distance(transform.position, player.position);
+        if (distance < killDistance)
+        {
+            playerstat.TakeDamage(1);
         }
     }
 }
