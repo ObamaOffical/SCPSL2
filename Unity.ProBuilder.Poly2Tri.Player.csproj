@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E7498F14-2146-6900-7D45-A0122578B0DB}</ProjectGuid>
+    <ProjectGuid>{692C51DE-660C-9060-FBFC-26A93E194187}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.ProBuilder.Poly2Tri</AssemblyName>
@@ -859,7 +859,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{77CAC63C-8383-ECFD-A4FC-A8DF47A55A4E}</Project>
+      <Project>{AF36BBE6-90C7-85C0-C94C-533C3D7227F1}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

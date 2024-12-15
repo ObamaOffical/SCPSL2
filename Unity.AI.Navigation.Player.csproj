@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{21090658-003B-A31E-B98B-C75FC3B3BBBB}</ProjectGuid>
+    <ProjectGuid>{94A7954E-9CB3-BB1F-6864-9F2057B8AD11}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AI.Navigation</AssemblyName>
@@ -833,7 +833,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{77CAC63C-8383-ECFD-A4FC-A8DF47A55A4E}</Project>
+      <Project>{AF36BBE6-90C7-85C0-C94C-533C3D7227F1}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

@@ -530,7 +530,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -556,7 +556,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 44874,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2660,7 +2660,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 52547,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2686,7 +2686,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 91854,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -3343,7 +3343,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 100065,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3369,7 +3369,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 150892,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -4037,7 +4037,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 158731,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -4063,7 +4063,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 195152,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4637,7 +4637,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 203710,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.UnityAdditionalFile.txt"
@@ -4663,7 +4663,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 238224,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp2"
@@ -5195,7 +5195,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 246863,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.UnityAdditionalFile.txt"
@@ -5221,7 +5221,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 279523,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.rsp2"
@@ -5716,7 +5716,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 287898,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -5742,7 +5742,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 321803,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -6251,7 +6251,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 330426,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.UnityAdditionalFile.txt"
@@ -6277,7 +6277,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 399873,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp2"
@@ -7138,7 +7138,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 408258,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -7164,7 +7164,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 444931,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -7702,7 +7702,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 453572,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -7728,7 +7728,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 518599,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -8522,7 +8522,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 526776,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.UnityAdditionalFile.txt"
@@ -8548,7 +8548,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 564949,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.rsp2"
@@ -9095,7 +9095,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 573340,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.AssetIdRemapUtility.UnityAdditionalFile.txt"
@@ -9121,7 +9121,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 607609,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.AssetIdRemapUtility.rsp2"
@@ -9633,7 +9633,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 616242,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Csg.UnityAdditionalFile.txt"
@@ -9659,7 +9659,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 649212,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Csg.rsp2"
@@ -10158,7 +10158,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 657582,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.KdTree.UnityAdditionalFile.txt"
@@ -10184,7 +10184,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 690944,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.KdTree.rsp2"
@@ -10686,7 +10686,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 699319,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Poly2Tri.UnityAdditionalFile.txt"
@@ -10712,7 +10712,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 734840,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Poly2Tri.rsp2"
@@ -11233,7 +11233,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 743212,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Stl.UnityAdditionalFile.txt"
@@ -11259,7 +11259,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 775815,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Stl.rsp2"
@@ -11753,7 +11753,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 784180,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -11779,7 +11779,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 820425,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -12304,7 +12304,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 828503,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -12330,7 +12330,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 863099,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -12848,7 +12848,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 871748,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -12874,7 +12874,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 907163,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -13394,7 +13394,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 915852,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -13420,7 +13420,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 950071,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -13929,7 +13929,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 958726,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -13955,7 +13955,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 996128,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -14504,7 +14504,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1004486,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -14530,7 +14530,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1042951,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -15093,7 +15093,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1051311,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -15119,7 +15119,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1085556,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -15632,7 +15632,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1094177,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -15658,7 +15658,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1130719,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -16188,7 +16188,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1138794,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.UnityAdditionalFile.txt"
@@ -16214,7 +16214,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1178940,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp2"
@@ -16850,7 +16850,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1187549,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt"
@@ -16876,7 +16876,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1222102,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.rsp2"
@@ -17435,7 +17435,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1230915,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -17461,7 +17461,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1264607,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -17989,7 +17989,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1273316,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.UnityAdditionalFile.txt"
@@ -18015,7 +18015,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1305840,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.ForUI.rsp2"
@@ -18511,7 +18511,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1314300,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.UnityAdditionalFile.txt"
@@ -18537,7 +18537,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1345806,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.TestFramework.rsp2"
@@ -19014,7 +19014,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1353640,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.UnityAdditionalFile.txt"
@@ -19040,7 +19040,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1390965,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.rsp2"
@@ -19584,7 +19584,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1399675,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.UnityAdditionalFile.txt"
@@ -19610,7 +19610,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1441161,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.rsp2"
@@ -20256,7 +20256,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1449711,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -20282,7 +20282,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1487628,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -20882,7 +20882,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1496045,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -20908,7 +20908,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1534054,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -21483,7 +21483,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1542755,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -21509,7 +21509,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1600373,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -22290,7 +22290,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1609073,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -22316,7 +22316,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1695210,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -23239,7 +23239,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1703669,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt"
@@ -23265,7 +23265,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1737919,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Updater.rsp2"
@@ -23805,7 +23805,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1746820,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Editor.UnityAdditionalFile.txt"
@@ -23831,7 +23831,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1797059,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.Editor.rsp2"
@@ -24607,7 +24607,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1806115,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -24633,7 +24633,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1896225,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -25630,7 +25630,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1904949,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -25656,7 +25656,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1986440,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -26556,7 +26556,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1994988,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.UnityAdditionalFile.txt"
@@ -26582,7 +26582,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2036013,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp2"
@@ -27213,7 +27213,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2045065,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.AddOns.Editor.UnityAdditionalFile.txt"
@@ -27239,7 +27239,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2078821,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.ProBuilder.AddOns.Editor.rsp2"
@@ -27771,7 +27771,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2087624,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -27797,7 +27797,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2141745,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -28523,7 +28523,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2150732,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -28549,7 +28549,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2186400,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -29078,7 +29078,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2194975,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -29104,7 +29104,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2230172,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -29675,7 +29675,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2239283,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -29701,7 +29701,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2281227,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -30294,7 +30294,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2290328,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -30320,7 +30320,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2324486,
       "PayloadLength": 24,
-      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP SL 2\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"X:\\SCP-SL-2\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -30868,7 +30868,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2333664,
       "PayloadLength": 11,
-      "PayloadDebugContentSnippet": "X:\\SCP SL 2",
+      "PayloadDebugContentSnippet": "X:\\SCP-SL-2",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -33156,7 +33156,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Cinemachine.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.Postprocessing.Runtime.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.ProBuilder.Csg.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.ProBuilder.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.ProBuilder.KdTree.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.ProBuilder.Stl.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"X:\\SCP SL 2\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"X:\\SCP SL 2\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"X:\\SCP SL 2\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"X:\\SCP SL 2\\Library\\ScriptAssemblies\" -s=\"X:\\SCP SL 2\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"X:\\SCP SL 2\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"X:\\SCP SL 2\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Cinemachine.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.InputSystem.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.InputSystem.ForUI.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.InputSystem.TestFramework.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.Postprocessing.Runtime.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.ProBuilder.Csg.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.ProBuilder.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.ProBuilder.KdTree.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.ProBuilder.Stl.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"X:\\SCP-SL-2\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"X:\\SCP-SL-2\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"X:\\SCP-SL-2\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.43f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"X:\\SCP-SL-2\\Library\\ScriptAssemblies\" -s=\"X:\\SCP-SL-2\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"X:\\SCP-SL-2\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"X:\\SCP-SL-2\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -33521,6 +33521,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "X:/SCP SL 2/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "X:/SCP-SL-2/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
