@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SCP SL 2.sln"
+    "dotnet.defaultSolution": "SCP SL 2.sln",
+    "dotnet.preferCSharpExtension": true
 }
